@@ -1,0 +1,25 @@
+table {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid #f5f5f5;
+}
+
+tr:hover {
+  background: #f5f5f5;
+  cursor: pointer;
+}
+
+th {
+  text-align:left;
+  background: #f5f5f5;
+}
+
+th, td {
+  padding: 5px 10px;
+}
+
+
